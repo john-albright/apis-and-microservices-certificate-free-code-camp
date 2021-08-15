@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "John Albright",
 	"description": "My first Node.js project",
+	"keywords": ["JavaScript", "Node.js", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
