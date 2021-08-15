@@ -3,7 +3,10 @@
 	"author": "John Albright",
 	"description": "My first Node.js project",
 	"keywords": ["JavaScript", "Node.js", "freecodecamp"],
+	"version": "1.0.0",
+	"license": "MIT",
 	"dependencies": {
+		"moment": "2.14.0",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
